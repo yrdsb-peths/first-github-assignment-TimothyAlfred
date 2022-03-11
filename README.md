@@ -12,3 +12,4 @@ Dog
 
 Now click the green 'commit changes' button at the bottom.
 
+[free_plane_sprite.zip](https://github.com/yrdsb-peths/first-github-assignment-TimothyAlfred/files/8234526/free_plane_sprite.zip)
